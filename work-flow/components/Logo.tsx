@@ -26,7 +26,7 @@ function Logo({
         <span className="bg-gradient-to-r from-emerald-500 to-emerald-600 bg-clip-text text-transparent">
             Flow
         </span>
-        <span className="text-stone-700 dark:text-stone-400">Work</span>
+        <span className="text-stone-700 dark:text-stone-400">Scrape</span>
       </div>
     </Link>
   );
