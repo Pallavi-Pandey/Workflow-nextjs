@@ -1,4 +1,4 @@
-# Workflow Next.js
+# Nextjs Workflow System
 
 A container for various Next.js based workflow projects and components.
 
